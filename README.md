@@ -21,7 +21,7 @@
          <img src="https://github.com/toby1907/OnlineShoppiStor2/blob/main/app/src/main/res/drawable/store3.jpg" alt="Screenshot 3"> 
         <h2>Download</h2>
         <p>You can download the app from the following link:</p>
-        <a href="">OnlineShoppiStore App</a>
+        <a href="https://github.com/toby1907/OnlineShoppiStor2/releases/tag/v.1.0.1">OnlineShoppiStore App</a>
     </div>
 </body>
 </html>
