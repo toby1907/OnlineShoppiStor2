@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <h1>OnlineShoppiStore</h1>
-        <p>Welcome to my simple OnlineShoppiStore app! This app provides you will a list of shoes and their types to buy.</p>
+        <p>An E-Commerce Android application that consumes the Timbu API.</p>
         <h2>Setup Instructions</h2>
         <ol>
             <li>Install the app from the link provided,if you haven't already.</li>
