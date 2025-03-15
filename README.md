@@ -8,7 +8,8 @@
 <body>
     <div class="container">
         <h1>OnlineShoppiStore</h1>
-        <p>An E-Commerce Android application that consumes the Timbu API.</p>
+        <p>An E-Commerce Android application that consumes the <a href="https://docs.timbu.cloud/api/intro">Timbu API.</a></p>
+        
         <h2>Setup Instructions</h2>
         <ol>
             <li>Install the app from the link provided,if you haven't already.</li>
