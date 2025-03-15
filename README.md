@@ -16,7 +16,7 @@
             <li>Customize the looks as able</li>
         </ol>
         <h2>Screenshots</h2>
-        <img src="https://github.com/toby1907/OnlineShoppiStore/blob/main/app/src/main/res/drawable/store1.png" alt="Screenshot 1"> 
+        <img src="https://github.com/toby1907/OnlineShoppiStore/blob/app/src/main/res/drawable/store1.jpg" alt="Screenshot 1"> 
        <img src="https://github.com/toby1907/OnlineShoppiStore/blob/main/app/src/main/res/drawable/store2.png" alt="Screenshot 2"> 
          <img src="https://github.com/toby1907/OnlineShoppiStore/blob/main/app/src/main/res/drawable/store3.png" alt="Screenshot 3"> 
         <!-- Add more screenshots as needed -->
